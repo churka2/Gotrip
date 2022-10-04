@@ -1,0 +1,17 @@
+@font-face{
+    font-family: 'Rubik-semibold';
+    src: url(../FONTS/Rubik-SemiBold.ttf)format('truetype')
+}
+@font-face{
+    font-family: 'Rubik-medium';
+    src: url(../FONTS/Rubik-Medium.ttf)format('truetype')
+}
+@font-face{
+    font-family: 'Rubik-regular';
+    src: url(../FONTS/Rubik-Regular.ttf)format('truetype')
+}
+
+@font-face{
+    font-family: 'inter-semibold';
+    src: url(../FONTS/Inter-SemiBold.ttf)format('truetype')
+}
